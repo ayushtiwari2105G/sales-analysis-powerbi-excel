@@ -70,6 +70,7 @@ The project uses two datasets:
 
 ```DAX
 ADV = Details[Amount] / Details[Quantity]
+
 Total Sales = SUM(Details[Amount])
 
 Total Profit = SUM(Details[Profit])
@@ -78,7 +79,14 @@ Total Quantity = SUM(Details[Quantity])
 ```
 
 ---
+## 📌 Advanced DAX Used
+- Profit Margin Calculation  
+- Month-over-Month Growth  
+- Ranking (Top Cities)  
+- Time Intelligence (MTD, Previous Month)  
+- Running Totals
 
+- --
 ## 📁 Project Structure
 
 ```
