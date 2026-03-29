@@ -70,6 +70,11 @@ The project uses two datasets:
 
 ```DAX
 ADV = Details[Amount] / Details[Quantity]
+Total Sales = SUM(Details[Amount])
+
+Total Profit = SUM(Details[Profit])
+
+Total Quantity = SUM(Details[Quantity])
 ```
 
 ---
