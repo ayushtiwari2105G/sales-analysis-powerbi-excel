@@ -13,6 +13,9 @@ The dashboard helps in **data-driven decision making** by visualizing key busine
 
 ![Dashboard](https://github.com/ayushtiwari2105G/sales-analysis-powerbi-excel/blob/main/powerBI/Full_Dashboard.png)
 
+![Dashboard](https://github.com/ayushtiwari2105G/sales-analysis-powerbi-excel/blob/main/Padding%20Dashboard.png)
+
+
 ---
 
 ## 🧰 Tools & Technologies Used
